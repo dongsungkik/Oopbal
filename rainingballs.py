@@ -11,7 +11,7 @@ Created on Thu Mar 17 16:15:33 2022
 
 @author: dongs
 """
-'''d'''
+'''press spacebar to move the blocks on the bottom'''
 import pygame
 import random
 
