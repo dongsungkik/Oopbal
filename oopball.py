@@ -4,7 +4,10 @@ Created on Thu Mar 17 16:15:33 2022
 
 @author: dongs
 """
-
+"""
+Press spacebar to change colour of the middle ball
+same colour balls don't hit, different colour balls hit
+"""
 import pygame
 import random
 import numpy as np
